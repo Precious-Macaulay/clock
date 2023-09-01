@@ -18,6 +18,7 @@ To get started with Clock Machine, you'll need to have Node.js and npm installed
 3. Run `npm install` to install the project dependencies.
 4. Run `npm start` to start the development server.
 5. Open your web browser and navigate to `http://localhost:3000` to view the application.
+6. Or view live here `https://clock-orpin-alpha.vercel.app/`
 
 ## Usage
 
